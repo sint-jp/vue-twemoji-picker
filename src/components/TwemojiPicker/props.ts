@@ -155,7 +155,7 @@ export default {
     type: String
   },
   twemojiPath: {
-    default: 'https://twemoji.maxcdn.com/2/',
+    default: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@13.1.1/assets/',
     type: String
   },
   twemojiExtension: {
